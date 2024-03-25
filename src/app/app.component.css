@@ -1,0 +1,18 @@
+
+  body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+  }
+.app-header{
+    height: 60px;
+    display: block;
+    /* padding: 10px; */
+    box-shadow: 0px 5px 25px #E8E8E8;
+
+    .img-div{
+max-width: 100%;    }
+
+}
+.content{
+  padding: var(--content-padding);
+
+}
